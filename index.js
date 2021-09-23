@@ -1,5 +1,5 @@
-  // Time Complexity: O(3n) - linear order
-  // Space complexity: 2n   
+  // Time Complexity: O(n) - linear order
+  // Space complexity: constant   
 
 function isPalindrome(word) {
   for (let i = 0; i < word.length / 2; i++) {
